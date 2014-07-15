@@ -15,46 +15,73 @@ import java.net.Socket;
 import org.apache.log4j.Logger;
 
 /**
+ * At the current time this class is written to echo back to the client
+ * everything the client sends. In the future, this needs to change so the
+ * server can process the information and send some type of results back to the
+ * client. Also currently, this class will continue to listen on a socket until
+ * it receives a "quit" message. At this point, the code will close the socket
+ * and start listening for the next request.<br>
+ * <br>
+ * Each socket is processed on its own thread which is separate from the thread
+ * listening for new requests.
  *
- * @author davegoldy
+ * @author Dave Goldy
  */
-public class Connection extends Thread {
+public class Connection extends Thread
+{
 
     private static final Logger logger = Logger.getLogger(Connection.class);
-    private BufferedReader in;
-    private PrintStream out;
-    private Socket clientSocket;
+    private Socket fClientSocket;
 
-    public Connection(Socket aClientSocket) {
-        try {
-            clientSocket = aClientSocket;
-            InputStream anInputStream = clientSocket.getInputStream();
-            in = new BufferedReader(new InputStreamReader(anInputStream));
-            out = new PrintStream(clientSocket.getOutputStream());
-            this.start();
-        } catch (IOException e) {
-            logger.error("Connection: ", e);
+    /**
+     * Initialize the Connection class so it can read information from the
+     * socket.
+     *
+     * @param aClientSocket
+     */
+    public Connection(Socket aClientSocket)
+    {
+        if (aClientSocket != null)
+        {
+            fClientSocket = aClientSocket;
+        }
+        else
+        {
+            throw new IllegalArgumentException("ClientSocket must be defined.");
         }
     }
 
-    public void run() {
-        try {
+    @Override
+    public void run()
+    {
+        try
+        {
+            InputStream anInputStream = fClientSocket.getInputStream();
+            BufferedReader in = new BufferedReader(new InputStreamReader(anInputStream));
+            PrintStream out = new PrintStream(fClientSocket.getOutputStream());
             String data = "";
-            while (!data.equals("quit")) {
-                logger.debug("Server ready to receive data.");
-                data = in.readLine();
-                logger.debug("Server received data: " + data);
-                out.println(data);
-                logger.debug("Server sent data back.");
-            }
-        } catch (EOFException e) {
+            logger.debug("Server ready to receive data.");
+            data = in.readLine();
+            logger.debug("Server received data: " + data);
+            out.println(data);
+            logger.debug("Server sent data back.");
+        }
+        catch (EOFException e)
+        {
             logger.error("EOF: ", e);
-        } catch (IOException e) {
+        }
+        catch (IOException e)
+        {
             logger.error("IO: ", e);
-        } finally {
-            try {
-                clientSocket.close();
-            } catch (IOException e) {
+        }
+        finally
+        {
+            try
+            {
+                fClientSocket.close();
+            }
+            catch (IOException e)
+            {
                 logger.error("close failed");
             }
         }
