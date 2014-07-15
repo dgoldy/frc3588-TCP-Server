@@ -1,0 +1,171 @@
+|INFO|10:13:24,108|[main]|TcpServer|Server received a request.|
+|DEBUG|10:13:24,110|[Thread-0]|Connection|Server ready to receive data.|
+|DEBUG|10:13:24,164|[Thread-0]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:13:24,164|[Thread-0]|Connection|Server sent data back.|
+|DEBUG|10:13:24,165|[Thread-0]|Connection|Server ready to receive data.|
+|DEBUG|10:13:24,170|[Thread-0]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:13:24,170|[Thread-0]|Connection|Server sent data back.|
+|DEBUG|10:13:24,170|[Thread-0]|Connection|Server ready to receive data.|
+|DEBUG|10:13:24,207|[Thread-0]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:13:24,207|[Thread-0]|Connection|Server sent data back.|
+|DEBUG|10:13:24,207|[Thread-0]|Connection|Server ready to receive data.|
+|DEBUG|10:13:24,247|[Thread-0]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:13:24,247|[Thread-0]|Connection|Server sent data back.|
+|DEBUG|10:13:24,247|[Thread-0]|Connection|Server ready to receive data.|
+|DEBUG|10:13:24,287|[Thread-0]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:13:24,287|[Thread-0]|Connection|Server sent data back.|
+|DEBUG|10:13:24,287|[Thread-0]|Connection|Server ready to receive data.|
+|DEBUG|10:13:24,327|[Thread-0]|Connection|Server received data: quit|
+|DEBUG|10:13:24,327|[Thread-0]|Connection|Server sent data back.|
+|INFO|10:14:38,803|[main]|TcpServer|Server received a request.|
+|DEBUG|10:14:38,804|[Thread-1]|Connection|Server ready to receive data.|
+|DEBUG|10:14:38,860|[Thread-1]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:14:38,860|[Thread-1]|Connection|Server sent data back.|
+|DEBUG|10:14:38,860|[Thread-1]|Connection|Server ready to receive data.|
+|DEBUG|10:14:38,868|[Thread-1]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:14:38,868|[Thread-1]|Connection|Server sent data back.|
+|DEBUG|10:14:38,868|[Thread-1]|Connection|Server ready to receive data.|
+|DEBUG|10:14:38,913|[Thread-1]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:14:38,913|[Thread-1]|Connection|Server sent data back.|
+|DEBUG|10:14:38,913|[Thread-1]|Connection|Server ready to receive data.|
+|DEBUG|10:14:38,953|[Thread-1]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:14:38,953|[Thread-1]|Connection|Server sent data back.|
+|DEBUG|10:14:38,954|[Thread-1]|Connection|Server ready to receive data.|
+|DEBUG|10:14:38,994|[Thread-1]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:14:38,994|[Thread-1]|Connection|Server sent data back.|
+|DEBUG|10:14:38,994|[Thread-1]|Connection|Server ready to receive data.|
+|DEBUG|10:14:39,031|[Thread-1]|Connection|Server received data: quit|
+|DEBUG|10:14:39,031|[Thread-1]|Connection|Server sent data back.|
+|INFO|10:16:29,154|[main]|TcpServer|Server received a request.|
+|DEBUG|10:16:29,155|[Thread-2]|Connection|Server ready to receive data.|
+|DEBUG|10:16:29,207|[Thread-2]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:16:29,207|[Thread-2]|Connection|Server sent data back.|
+|DEBUG|10:16:29,207|[Thread-2]|Connection|Server ready to receive data.|
+|DEBUG|10:16:29,213|[Thread-2]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:16:29,213|[Thread-2]|Connection|Server sent data back.|
+|DEBUG|10:16:29,213|[Thread-2]|Connection|Server ready to receive data.|
+|DEBUG|10:16:29,253|[Thread-2]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:16:29,253|[Thread-2]|Connection|Server sent data back.|
+|DEBUG|10:16:29,253|[Thread-2]|Connection|Server ready to receive data.|
+|DEBUG|10:16:29,292|[Thread-2]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:16:29,292|[Thread-2]|Connection|Server sent data back.|
+|DEBUG|10:16:29,292|[Thread-2]|Connection|Server ready to receive data.|
+|DEBUG|10:16:29,332|[Thread-2]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:16:29,332|[Thread-2]|Connection|Server sent data back.|
+|DEBUG|10:16:29,332|[Thread-2]|Connection|Server ready to receive data.|
+|DEBUG|10:16:29,372|[Thread-2]|Connection|Server received data: quit|
+|DEBUG|10:16:29,372|[Thread-2]|Connection|Server sent data back.|
+|INFO|10:23:01,032|[main]|TcpServer|Server received a request.|
+|DEBUG|10:23:01,032|[Thread-3]|Connection|Server ready to receive data.|
+|DEBUG|10:23:01,086|[Thread-3]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:23:01,086|[Thread-3]|Connection|Server sent data back.|
+|DEBUG|10:23:01,086|[Thread-3]|Connection|Server ready to receive data.|
+|DEBUG|10:23:01,092|[Thread-3]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:23:01,092|[Thread-3]|Connection|Server sent data back.|
+|DEBUG|10:23:01,092|[Thread-3]|Connection|Server ready to receive data.|
+|DEBUG|10:23:01,134|[Thread-3]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:23:01,134|[Thread-3]|Connection|Server sent data back.|
+|DEBUG|10:23:01,134|[Thread-3]|Connection|Server ready to receive data.|
+|DEBUG|10:23:01,174|[Thread-3]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:23:01,174|[Thread-3]|Connection|Server sent data back.|
+|DEBUG|10:23:01,174|[Thread-3]|Connection|Server ready to receive data.|
+|DEBUG|10:23:01,214|[Thread-3]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:23:01,214|[Thread-3]|Connection|Server sent data back.|
+|DEBUG|10:23:01,214|[Thread-3]|Connection|Server ready to receive data.|
+|DEBUG|10:23:01,254|[Thread-3]|Connection|Server received data: quit|
+|DEBUG|10:23:01,254|[Thread-3]|Connection|Server sent data back.|
+|INFO|10:26:43,607|[main]|TcpServer|Server received a request.|
+|DEBUG|10:26:43,607|[Thread-4]|Connection|Server ready to receive data.|
+|DEBUG|10:26:43,649|[Thread-4]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:26:43,649|[Thread-4]|Connection|Server sent data back.|
+|DEBUG|10:26:43,649|[Thread-4]|Connection|Server ready to receive data.|
+|DEBUG|10:26:43,660|[Thread-4]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:26:43,660|[Thread-4]|Connection|Server sent data back.|
+|DEBUG|10:26:43,660|[Thread-4]|Connection|Server ready to receive data.|
+|DEBUG|10:26:43,705|[Thread-4]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:26:43,705|[Thread-4]|Connection|Server sent data back.|
+|DEBUG|10:26:43,705|[Thread-4]|Connection|Server ready to receive data.|
+|DEBUG|10:26:43,752|[Thread-4]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:26:43,752|[Thread-4]|Connection|Server sent data back.|
+|DEBUG|10:26:43,752|[Thread-4]|Connection|Server ready to receive data.|
+|DEBUG|10:26:43,797|[Thread-4]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:26:43,797|[Thread-4]|Connection|Server sent data back.|
+|DEBUG|10:26:43,797|[Thread-4]|Connection|Server ready to receive data.|
+|DEBUG|10:26:43,844|[Thread-4]|Connection|Server received data: quit|
+|DEBUG|10:26:43,844|[Thread-4]|Connection|Server sent data back.|
+|INFO|10:27:58,320|[main]|TcpServer|Server received a request.|
+|DEBUG|10:27:58,321|[Thread-5]|Connection|Server ready to receive data.|
+|DEBUG|10:27:58,362|[Thread-5]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:27:58,362|[Thread-5]|Connection|Server sent data back.|
+|DEBUG|10:27:58,362|[Thread-5]|Connection|Server ready to receive data.|
+|DEBUG|10:27:58,370|[Thread-5]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:27:58,370|[Thread-5]|Connection|Server sent data back.|
+|DEBUG|10:27:58,370|[Thread-5]|Connection|Server ready to receive data.|
+|DEBUG|10:27:58,414|[Thread-5]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:27:58,414|[Thread-5]|Connection|Server sent data back.|
+|DEBUG|10:27:58,414|[Thread-5]|Connection|Server ready to receive data.|
+|DEBUG|10:27:58,463|[Thread-5]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:27:58,463|[Thread-5]|Connection|Server sent data back.|
+|DEBUG|10:27:58,463|[Thread-5]|Connection|Server ready to receive data.|
+|DEBUG|10:27:58,504|[Thread-5]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:27:58,504|[Thread-5]|Connection|Server sent data back.|
+|DEBUG|10:27:58,504|[Thread-5]|Connection|Server ready to receive data.|
+|DEBUG|10:27:58,543|[Thread-5]|Connection|Server received data: quit|
+|DEBUG|10:27:58,543|[Thread-5]|Connection|Server sent data back.|
+|INFO|10:28:06,378|[main]|TcpServer|Server received a request.|
+|DEBUG|10:28:06,379|[Thread-6]|Connection|Server ready to receive data.|
+|DEBUG|10:28:06,421|[Thread-6]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:28:06,421|[Thread-6]|Connection|Server sent data back.|
+|DEBUG|10:28:06,421|[Thread-6]|Connection|Server ready to receive data.|
+|DEBUG|10:28:06,431|[Thread-6]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:28:06,431|[Thread-6]|Connection|Server sent data back.|
+|DEBUG|10:28:06,431|[Thread-6]|Connection|Server ready to receive data.|
+|DEBUG|10:28:06,478|[Thread-6]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:28:06,478|[Thread-6]|Connection|Server sent data back.|
+|DEBUG|10:28:06,478|[Thread-6]|Connection|Server ready to receive data.|
+|DEBUG|10:28:06,525|[Thread-6]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:28:06,525|[Thread-6]|Connection|Server sent data back.|
+|DEBUG|10:28:06,525|[Thread-6]|Connection|Server ready to receive data.|
+|DEBUG|10:28:06,567|[Thread-6]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:28:06,567|[Thread-6]|Connection|Server sent data back.|
+|DEBUG|10:28:06,567|[Thread-6]|Connection|Server ready to receive data.|
+|DEBUG|10:28:06,606|[Thread-6]|Connection|Server received data: quit|
+|DEBUG|10:28:06,606|[Thread-6]|Connection|Server sent data back.|
+|INFO|10:28:42,631|[main]|TcpServer|Server received a request.|
+|DEBUG|10:28:42,631|[Thread-7]|Connection|Server ready to receive data.|
+|DEBUG|10:28:42,677|[Thread-7]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:28:42,677|[Thread-7]|Connection|Server sent data back.|
+|DEBUG|10:28:42,677|[Thread-7]|Connection|Server ready to receive data.|
+|DEBUG|10:28:42,688|[Thread-7]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:28:42,688|[Thread-7]|Connection|Server sent data back.|
+|DEBUG|10:28:42,688|[Thread-7]|Connection|Server ready to receive data.|
+|DEBUG|10:28:42,728|[Thread-7]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:28:42,728|[Thread-7]|Connection|Server sent data back.|
+|DEBUG|10:28:42,728|[Thread-7]|Connection|Server ready to receive data.|
+|DEBUG|10:28:42,771|[Thread-7]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:28:42,771|[Thread-7]|Connection|Server sent data back.|
+|DEBUG|10:28:42,771|[Thread-7]|Connection|Server ready to receive data.|
+|DEBUG|10:28:42,818|[Thread-7]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:28:42,818|[Thread-7]|Connection|Server sent data back.|
+|DEBUG|10:28:42,818|[Thread-7]|Connection|Server ready to receive data.|
+|DEBUG|10:28:42,858|[Thread-7]|Connection|Server received data: quit|
+|DEBUG|10:28:42,858|[Thread-7]|Connection|Server sent data back.|
+|INFO|10:35:16,428|[main]|TcpServer|Server received a request.|
+|DEBUG|10:35:16,428|[Thread-8]|Connection|Server ready to receive data.|
+|DEBUG|10:35:16,474|[Thread-8]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:35:16,474|[Thread-8]|Connection|Server sent data back.|
+|DEBUG|10:35:16,474|[Thread-8]|Connection|Server ready to receive data.|
+|DEBUG|10:35:16,483|[Thread-8]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:35:16,484|[Thread-8]|Connection|Server sent data back.|
+|DEBUG|10:35:16,484|[Thread-8]|Connection|Server ready to receive data.|
+|DEBUG|10:35:16,527|[Thread-8]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:35:16,527|[Thread-8]|Connection|Server sent data back.|
+|DEBUG|10:35:16,527|[Thread-8]|Connection|Server ready to receive data.|
+|DEBUG|10:35:16,566|[Thread-8]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:35:16,566|[Thread-8]|Connection|Server sent data back.|
+|DEBUG|10:35:16,566|[Thread-8]|Connection|Server ready to receive data.|
+|DEBUG|10:35:16,606|[Thread-8]|Connection|Server received data: Daves-New-iMac.local|
+|DEBUG|10:35:16,606|[Thread-8]|Connection|Server sent data back.|
+|DEBUG|10:35:16,606|[Thread-8]|Connection|Server ready to receive data.|
+|DEBUG|10:35:16,646|[Thread-8]|Connection|Server received data: quit|
+|DEBUG|10:35:16,646|[Thread-8]|Connection|Server sent data back.|
